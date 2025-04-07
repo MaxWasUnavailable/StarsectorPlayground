@@ -1,7 +1,7 @@
 {
-  "id": "maxwasunavailable.playground",
+  "id": "MaxWasUnavailable.playground",
   "name": "Max's Playground",
-  "author": "maxwasunavailable",
+  "author": "MaxWasUnavailable",
   "utility": false,
   "version": {
     "major": "1",
@@ -13,6 +13,6 @@
   "jars": [
     "jars/Template.jar"
   ],
-  "modPlugin": "maxwasunavailable.playground.PlaygroundPlugin",
+  "modPlugin": "MaxWasUnavailable.playground.PlaygroundPlugin",
   "dependencies": []
 }
